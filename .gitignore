@@ -1,0 +1,18 @@
+.DS_Store
+Thumbs.db
+db.json
+*.log
+node_modules/
+public/
+.deploy*/
+
+
+# I dont' want this
+
+*.json
+
+.deploy_git/
+.github/
+themes/
+node_modules/
+
